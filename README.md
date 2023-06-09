@@ -3,8 +3,8 @@ Hi There 👋  I'm Tenzin
 
 This is where I keep my collection of projects...
 
-* 🧠  I'm learning more about Javascript & React.
-* 🤝  I'm open to collaborating on interesting projects.
+* I'm learning more about Javascript & React.
+* I'm open to collaborating on interesting projects.
 
 ### Skills
 
